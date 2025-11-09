@@ -4,7 +4,7 @@
 
 <h1>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> 
-  Hi, I'm Daniel, 2025 New CS Grad!
+  Hi, I'm Daniel, CS 2025!
   <img align="right" src="https://komarev.com/ghpvc/?username=Daniel21b" alt="GitHub profile views counter">
 </h1>
 
@@ -16,7 +16,7 @@
 
 <ul>
   <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Globe Showing Americas" width="25px" align="center" /> Based in <strong>Silver Spring, MD</strong>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Globe Showing Americas" width="25px" align="center" /> Based in <strong> DMV</strong>
   </li>
   <li>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer Emoji" width="25px" align="center" /> Recent CS Graduate from <strong>University of Maryland</strong>
