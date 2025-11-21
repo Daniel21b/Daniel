@@ -94,11 +94,11 @@
 
 ## <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Folder.png" width="30px" align="center" alt="Folder Emoji" /> Featured Projects:</div>
 
-### 🚀 E-commerce Recommendation Engine
-**Tech Stack:** Python, scikit-learn, MLflow, Plotly, PostgreSQL, AWS EC2  
-- Developed ML models to predict customer product preferences with experiment tracking via MLflow
-- Stored recommendation metrics in PostgreSQL for cross-category analysis
-- Deployed interactive Plotly dashboard on AWS EC2 for real-time model performance visualization
+### 🚀 Crawl4AI OSS Contribution (Open Source)}
+**Tech Stack:** FastAPI, Docker, JWT, Async/Await
+- Built async scraping pipelines with \textbf{Crawl4AI} handling 500+ pages, implementing session management.
+- Enhanced \textbf{FastAPI} endpoints with JWT authentication, reducing unauthorized access attempts by 95\%.
+- Automated data extraction to structured JSON/Markdown, cutting manual cleanup time to 15 minutes.
 
 ### 🚴 DC Bikeshare Demand Analysis
 **Tech Stack:** Python, Pandas, Seaborn, Plotly, Looker  
